@@ -49,5 +49,8 @@ The lecture consists of a PowerPoint presentation and a Jupyter notebook. The le
 - Jupyter notebook
     - Content: try to solve max-cut problem in the notebook. Use lecture notebook as guidance to solve homework
 ## Powerpoint lecture
+The powerpoint lecture should give the most important aspects to the topic, as well as a visual approach for a better understanding of the QAOA concept.
 ## Example Notebook
+The lecture notebook is intended to be shown during the lecture to provide an example for the theoretic concepts explained in the Powerpoint lecture and offers some examples, that the students can try hands-on in the lecture.
 ## Homework Notebook
+The students should work on the following notebook after the lecture. It contains a more complex exercise in the style of the Jupyter notebook that was presentet during the lecture.
